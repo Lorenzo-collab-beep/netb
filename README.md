@@ -10,6 +10,7 @@ To use the commands globally, add this alias to your .bashrc file:
 	alias netb='~/.netbridge/netb'
 
 Reload your configuration: source ~/.bashrc
+
 Usage
 To see available commands and usage details, simply run without parameters: netb
 
