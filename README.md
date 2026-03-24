@@ -6,7 +6,7 @@ Installation
 Save the script in any directory (e.g., ~/.netbridge).
 To use the commands globally, add this alias to your .bashrc file:
 
-alias netb='~/.netbridge/netb'
+	alias netb='~/.netbridge/netb'
 
 Reload your configuration: source ~/.bashrc
 Usage
@@ -16,7 +16,8 @@ DHCP Server
 The dhcp-server script is useful when your external device is in dynamic DHCP mode. It simplifies the use of isc-dhcp-server.
 To use it from anywhere, you can add this dedicated alias to your .bashrc:
 
-alias dhcp-server='~/.netbridge/dhcp-server/dhcp-server'
+	alias dhcp-server='~/.netbridge/dhcp-server/dhcp-server'
+_
 
 	Commands:
 	dhcp-server start
